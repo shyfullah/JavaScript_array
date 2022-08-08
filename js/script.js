@@ -1,4 +1,9 @@
+const cars = [
+    'Fielder',
+    'Toyota',
+    'volvo'
+]
 
-const color = ['red','green','blue','yellow','orange']
+let arrayValuePrint = document.getElementById('demo');
 
-document.getElementById('demo').innerHTML = color
+arrayValuePrint.innerHTML = cars;
