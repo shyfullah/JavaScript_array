@@ -10,4 +10,8 @@ color[2] = "blue";
 
 color[3] = "orange";
 
-document.getElementById('demo').innerHTML = color
+color[8] = "Sky Blue"
+
+
+
+document.getElementById('demo').innerHTML = color[8]
