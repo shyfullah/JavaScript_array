@@ -1,17 +1,9 @@
 
 
-const color =[];
-
-color[0] = "red";
-
-color[1] = "green";
-
-color[2] = "blue";
-
-color[3] = "orange";
-
-color[8] = "Sky Blue"
+const color = ['red','green', 'blue', 'magenda']
 
 
 
-document.getElementById('demo').innerHTML = color[8]
+color[1] = "white"
+
+document.getElementById('demo').innerHTML = color
